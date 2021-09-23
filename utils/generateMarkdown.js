@@ -14,10 +14,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 <h1 align="center"></h1>
-
 ## Description
-
-
 ## Table of Contents:
 - [Description]
 - [Installation]
@@ -26,15 +23,10 @@ function generateMarkdown(data) {
 - [Contributing]
 - [Test]
 - [Questions]
-
  ## Installation
-
  ## Usages
-
  ## Licenses
-
  ## Tests
-
  ## Questions
 `;
 }
