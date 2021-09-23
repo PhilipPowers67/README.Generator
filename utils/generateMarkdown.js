@@ -21,7 +21,7 @@ function generateMarkdown(data) {
   return `# ${data.projectTitle}
 
 ## Description
-${data.Description}
+${data.projectDescription}
 
 ## Table of Contents:
 - [Description](#Description)

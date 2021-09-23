@@ -1,8 +1,7 @@
-# l;sadkfj
-
+# asdlkfj
 
 ## Description
-sdfklsjdf
+asdfklj
 
 ## Table of Contents:
 - [Description](#Description)
@@ -14,15 +13,14 @@ sdfklsjdf
 - [Questions](#Questions)
 
  ## Installation
-sdflkjasdf
+ sdflkj
  ## Usages
-sadlkfjsadfl;j
+ salkd;fj
  ## Licenses
-Apache,BSD,GPL
-![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg) ![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg) ![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg)
- ## Contributing
-askldfjasldkfj
+ ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg) ![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg) ![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg)
+ ## Contribution
+ sjkdalfh
  ## Tests
-sdflksajdfl
+;laskdfj
  ## Questions
- Any questions or concerns you can reach me by email @ slkdfjsadl;fkj  or message on github @ sdlfkjasdf;lkj
+ Any Questions or concerns you may have, You may reach me by email @ ;alskdfj or message me on github @ asdlk;fj
