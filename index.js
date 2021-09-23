@@ -62,7 +62,11 @@ function writeToFile(data) {
 
 // TODO: Create a function to initialize app
 const init = () => {
-  return inquirer.prompt([]);
+  return inquirer.prompt(questions)
+  .then(answers => {
+    var data = generateMarkdown(answers)
+    writeToFile(data);
+  });
 };
 
 // Function call to initialize app
