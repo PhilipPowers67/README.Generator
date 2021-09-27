@@ -26,8 +26,8 @@ ${data.projectDescription}
 ## Table of Contents:
 - [Description](#Description)
 - [Installation](#Installation)
-- [Usage](#Usages)
-- [License](#Licenses)
+- [Usages](#Usages)
+- [Licenses](#Licenses)
 - [Contributing](#Contributing)
 - [Test](#Tests)
 - [Questions](#Questions)
@@ -43,7 +43,7 @@ ${data.projectDescription}
  ## Tests
 ${data.projectTests}
  ## Questions
- Any Questions or concerns you may have, You may reach me by email @ ${data.projectEmail} or message me on github @ ${data.projectGithub}
+ Any Questions or concerns you may have, You may reach me by email @ ${data.projectEmail} or message me on github @ [${data.projectGithub}](https://github.com/${data.projectGithub})
 `;
 }
 
