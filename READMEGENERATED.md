@@ -1,10 +1,10 @@
-# kfagss
+# README.Generator
 
 ## Description
-dfdsfgdsfg
+Generates a README for a project
 
 ## Table of Contents:
-- (Description)[#Description]
+- [Description](#Description)
 - [Installation](#Installation)
 - [Usages](#Usages)
 - [Licenses](#Licenses)
@@ -13,14 +13,14 @@ dfdsfgdsfg
 - [Questions](#Questions)
 
  ## Installation
- dsfgdfsg
+ npm inquirer
  ## Usages
- dfgdsfgds
+ NONE
  ## Licenses
- ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+ ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg) ![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg) ![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg) ![GitHub license](https://img.shields.io/badge/license-Mozilla-blue.svg)
  ## Contribution
- sdfg sdfg
+ Myself
  ## Tests
-dfgdgf
+NO
  ## Questions
- Any Questions or concerns you may have, You may reach me by email @ dsfgdsfg or message me on github @ [dsfgsdfg](https://github.com/dsfgsdfg)
+ Any Questions or concerns you may have, You may reach me by email @ phil.powers67@gmail.com or message me on github @ [PhilipPowers67](https://github.com/PhilipPowers67)
